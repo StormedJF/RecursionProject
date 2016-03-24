@@ -18,7 +18,7 @@ public class RecursionFrame	extends JFrame
 	
 	private void setupFrame()
 	{
-		this.setTitle("recursion thing");
+		this.setTitle("Recursions!");
 		this.setContentPane(basePanel);
 		this.setResizable(false);
 		this.setSize(500,500);

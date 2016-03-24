@@ -21,7 +21,7 @@ public class IterativeTool
 		return number;
 	}
 	
-	public double factorialTOol(int position)
+	public double factorialTool(int position)
 	{
 		double number = 0, nextNumber =1;
 		if(position < 0)
